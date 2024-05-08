@@ -34,7 +34,7 @@ const Navbar = () => {
         }
       </button>
 
-      <Link to="/forecast" className="select-none font-bold text-xl font-syne cursor-pointer">
+      <Link to="/forecast" className="select-none font-bold text-xl font-syne cursor-pointer border rounded-md p-2">
         Forecast
       </Link>
     </nav>
